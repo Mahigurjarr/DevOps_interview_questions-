@@ -30,7 +30,7 @@ DevOps Interview Questions for fresher :
 28. What is plugins in terraform?
 29. Diff. between terraform and AWS Cloudformation? or Why we use Terraform all the time instead of AWS Cloudformation?
 30. what IaaS,PaaS,SaaS ?
-31. What is AWS EC2, S3, VPC, Subnet, Route53, Security group, Snapshot, CodeBuild, CodeDeploy, CodePipeline, key-pair, AMI's, Elastic-IP, Instance, RDS, Reserved Instance, Spot Instance, Nginx, 
+31. What is AWS EC2, S3, VPC, Subnet, Route53, Security group, Snapshot, CodeBuild, CodeDeploy, CodePipeline, key-pair, AMI's, Elastic-IP, Instance, RDS, Reserved Instance, Spot Instance, Nginx?
 32. What is Load-balancer, Target Group?
 33. What is Auto-scaling?
 34. What is Jenkins?
